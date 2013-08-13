@@ -7,6 +7,15 @@
 		<atom:link href="http://sungsit.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>วิธีหยุดฝน</title>
+				<description>&lt;p&gt;ทุกคนสามารถทำให้ฝนหยุดตกได้โดย &lt;strong&gt;การรอ&lt;/strong&gt;&lt;/p&gt;
+</description>
+				<pubDate>Tue, 13 Aug 2013 15:55:00 +0700</pubDate>
+				<link>http://sungsit.com/2013-08-13-1.html</link>
+				<guid isPermaLink="true">http://sungsit.com/2013-08-13-1.html</guid>
+			</item>
+		
+			<item>
 				<title>ศูนย์กลางของจักรวาล</title>
 				<description>&lt;p&gt;มนุษย์โดยทั่วไปรู้มานานแล้วว่าโลกโคจรรอบดวงอาทิตย์ แต่ปัจจุบันยังมีคนเข้าใจว่า &lt;strong&gt;ไทยคือศูนย์กลางของจักรวาล&lt;/strong&gt;&lt;/p&gt;
 </description>
@@ -173,16 +182,6 @@ That I don’t exist.&lt;/p&gt;
 				<pubDate>Mon, 22 Apr 2013 16:20:00 +0700</pubDate>
 				<link>http://sungsit.com/2013-04-22-1.html</link>
 				<guid isPermaLink="true">http://sungsit.com/2013-04-22-1.html</guid>
-			</item>
-		
-			<item>
-				<title>กลัวคำตอบ</title>
-				<description>&lt;p&gt;คนที่กลัวคำตอบ&lt;br&gt;
-มักไม่ชอบให้ตั้งคำถาม  &lt;/p&gt;
-</description>
-				<pubDate>Sat, 16 Mar 2013 15:19:00 +0700</pubDate>
-				<link>http://sungsit.com/2013-03-16-1.html</link>
-				<guid isPermaLink="true">http://sungsit.com/2013-03-16-1.html</guid>
 			</item>
 		
 	</channel>
