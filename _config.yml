@@ -1,0 +1,29 @@
+# Site settings
+encoding: utf-8
+title: Sungsit Sawaiwan
+url: "https://sungsit.com"
+description: >
+  Jai Guru Deva Om ...
+baseurl: ""
+twitter_username: gzix
+github_username:  sungsit
+lang: th
+timezone: Asia/Bangkok
+permalink: /:year-:month-:day-:title.html
+excerpt_separator: <!--more-->
+
+# Github
+github:
+  owner_name: "sungsit"
+  owner_url: "https://github.com/sungsit"
+  repository_url: "https://github.com/sungsit/sungsit.github.io"
+
+# Github Pages Sitemap
+gems:
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+
+
+

@@ -1,133 +1,30 @@
+---
+layout: null
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Sungsit Sawaiwan</title>
-		<description>Jai Guru Deva Om ...</description>
-		<link>http://sungsit.com</link>
-		<atom:link href="http://sungsit.com/feed.xml" rel="self" type="application/rss+xml" />
-		
-			<item>
-				<title>คิดใหญ่</title>
-				<description>&lt;p&gt;คิดไม่มาก&lt;br&gt;
-คิดไม่น้อย&lt;br&gt;
-คิดใหญ่  &lt;/p&gt;
-</description>
-				<pubDate>Fri, 10 Oct 2014 16:19:00 +0700</pubDate>
-				<link>http://sungsit.com/2014-10-10-1.html</link>
-				<guid isPermaLink="true">http://sungsit.com/2014-10-10-1.html</guid>
-			</item>
-		
-			<item>
-				<title>เรื่องชั่วคราว</title>
-				<description>&lt;p&gt;ผู้คนมีเรื่องราว&lt;br&gt;
-ชีวิตเป็นเรื่องชั่วคราว&lt;br&gt;
-ทุกสิ่งมีวันหมดอายุ  &lt;/p&gt;
-</description>
-				<pubDate>Wed, 24 Sep 2014 12:26:00 +0700</pubDate>
-				<link>http://sungsit.com/2014-09-24-1.html</link>
-				<guid isPermaLink="true">http://sungsit.com/2014-09-24-1.html</guid>
-			</item>
-		
-			<item>
-				<title>เมื่อมอง</title>
-				<description>&lt;p&gt;เมื่อมองท้องฟ้า นึกถึงอากาศ&lt;br&gt;
-เมื่อใบไม้ไหว สัมผัสสายลม&lt;br&gt;
-เมื่อมองผู้คน สัมผัสจิตวิญญาณ  &lt;/p&gt;
-</description>
-				<pubDate>Tue, 20 Aug 2013 01:51:00 +0700</pubDate>
-				<link>http://sungsit.com/2013-08-20-1.html</link>
-				<guid isPermaLink="true">http://sungsit.com/2013-08-20-1.html</guid>
-			</item>
-		
-			<item>
-				<title>13.87 พันล้านบาท</title>
-				<description>&lt;p&gt;เมื่อวานเห็น &lt;a href=&quot;https://www.facebook.com/thitipong.korsakul&quot;&gt;โอม&lt;/a&gt; โพสต์ข้อมูลใน Facebook เลยค้นหาที่มาของข้อมูลโดย พุฒิพงศ์ พงศ์เอนกกุล [&lt;a href=&quot;http://blogazine.in.th/blogs/phuttipong/post/4290&quot;&gt;ที่มา&lt;/a&gt;]&lt;/p&gt;
-
-&lt;p&gt;โปรดเข้าใจก่อนว่านี่ไม่ใช่การโจมตีสถาบันกษัตริย์ไทยในเรื่องนี้ เพราะ &lt;strong&gt;งบประมาณแผ่นดินสำหรับรักษาเกียรติสถาบันกษัตริย์&lt;/strong&gt; จำนวน ๑๓,๘๖๙,๖๖๐,๒๐๐ บาท (หนึ่งหมื่นสามพันแปดร้อยหกสิบเก้าล้านหกแสนหกหมื่นสองร้อยบาท) ไม่ได้ถูกใช้โดยสถาบันกษัตริย์ทั้งหมด จะโทษสถาบันกษัตริย์ฝ่ายเดียวไม่ได้ ต้องโทษหน่วยงานราชการที่ต้องการจะเบิกใช้ในปีงบประมาณ 2557 โดยอ้างว่า &lt;em&gt;เพื่อรักษาเกียรติสถาบันกษัตริย์&lt;/em&gt; &lt;/p&gt;
-
-&lt;p&gt;ผมไม่คิดว่าหน่วยงานราชการไทยเหล่านั้นจะใช้เงินภาษีประชาชนได้อย่างคุ้มค่าหรือสมเกียรติหรืออะไรก็แล้วแต่จะอ้าง นอกจากอาศัยความกลัวของประชาชนหรือตัวแทนประชาชนในสภาที่ไม่มีความกล้าหาญพอจะทัดทานในขั้นพิจารณาร่างกฎหมาย เพื่อแสวงหาผลประโยชน์จากงบประมาณแผ่นดิน&lt;/p&gt;
-
-&lt;p&gt;ถ้าดูโดยไม่เปรียบเทียบ หลายคนอาจนึกไม่ออกว่า  &lt;strong&gt;13.87 พันล้านบาท&lt;/strong&gt; นั้นมากหรือน้อย? ผมรู้แค่ว่ารัฐบาลอังกฤษใช้จ่ายงบประมาณแผ่นดินสำหรับสถาบันกษัตริย์ของเขา (ไม่รวมค่าใช้จ่ายในการรักษาความปลอดภัยโดยตำรวจและทหาร) ในปี 2012-13 เป็นเงิน £33.3m = 1.628 พันล้านบาท ในปีปัจจุบัน £36.1m = 1.765 พันล้านบาท ส่วนปีหน้าจะเพิ่มเป็น £37.9m = &lt;strong&gt;1.853 พันล้านบาท หรือน้อยกว่าไทยประมาณ 7.5 เท่า&lt;/strong&gt; เมื่อเทียบกับปีงบประมาณเดียวกัน 
-[&lt;a href=&quot;http://www.bbc.co.uk/news/uk-23082296&quot;&gt;ที่มา&lt;/a&gt;] แม้ว่าฝ่าย Republic จะอ้างว่าเงินภาษีประชาชนที่หมดไปกับสถาบันกษัตริย์อังกฤษคือ &lt;strong&gt;£202.4m หรือ 9.896 พันล้านบาท&lt;/strong&gt; แต่ก็ยังน้อยกว่า &lt;em&gt;ค่ารักษาเกียรติสถาบันกษัตริย์ไทย&lt;/em&gt; อยู่ดี [&lt;a href=&quot;http://www.republic.org.uk/What%20we%20want/In%20depth/Royal%20finances/index.php&quot;&gt;ที่มา&lt;/a&gt;]&lt;/p&gt;
-</description>
-				<pubDate>Sat, 17 Aug 2013 14:30:00 +0700</pubDate>
-				<link>http://sungsit.com/2013-08-17-2.html</link>
-				<guid isPermaLink="true">http://sungsit.com/2013-08-17-2.html</guid>
-			</item>
-		
-			<item>
-				<title>ทำ จึงเข้าใจ</title>
-				<description>&lt;p&gt;ฟัง แล้วก็ลืม&lt;br&gt;
-เห็น จึงจดจำ&lt;br&gt;
-ทำ จึงเข้าใจ  &lt;/p&gt;
-
-&lt;p&gt;ขงจื๊อ&lt;/p&gt;
-
-&lt;p&gt;I hear and I forget.&lt;br&gt;
-I see and I remember.&lt;br&gt;
-I do and I understand.  &lt;/p&gt;
-
-&lt;p&gt;Confucius&lt;/p&gt;
-</description>
-				<pubDate>Sat, 17 Aug 2013 13:34:00 +0700</pubDate>
-				<link>http://sungsit.com/2013-08-17-1.html</link>
-				<guid isPermaLink="true">http://sungsit.com/2013-08-17-1.html</guid>
-			</item>
-		
-			<item>
-				<title>วัยกับเวลา</title>
-				<description>&lt;p&gt;วัยเด็ก: ฉันชอบสิ่งที่สะดุดตา เวลาส่วนมากหมดไปกับเรื่องที่ตัวเองยังไม่เข้าใจและต้องมีคนคอยแนะนำ&lt;/p&gt;
-
-&lt;p&gt;วัยหนุ่มสาว: ฉันชอบสิ่งที่ท้าทาย เวลาส่วนมากหมดไปกับเรื่องที่คนอื่นรู้อยู่แล้วแต่ไม่ลงมือทำ&lt;/p&gt;
-
-&lt;p&gt;วัยกลางคน: ฉันชอบสิ่งที่ทำงานได้ปกติ เวลาส่วนมากหมดไปกับเรื่องที่ตัวเองคุ้นเคยและคนอื่นต้องการคำแนะนำ&lt;/p&gt;
-
-&lt;p&gt;วัยชรา: ฉันหวังว่าตัวเองจะปกติ และคงได้นึกถึงเรื่องที่ผ่านมา จนกว่าเวลาจะสิ้นสุด&lt;/p&gt;
-</description>
-				<pubDate>Fri, 16 Aug 2013 13:20:00 +0700</pubDate>
-				<link>http://sungsit.com/2013-08-16-3.html</link>
-				<guid isPermaLink="true">http://sungsit.com/2013-08-16-3.html</guid>
-			</item>
-		
-			<item>
-				<title>หัวใจสู่ปลายเท้า</title>
-				<description>&lt;p&gt;ไกลเพียงใด&lt;br&gt;
-ระยะทาง&lt;br&gt;
-จากหัวใจสู่ปลายเท้า  &lt;/p&gt;
-</description>
-				<pubDate>Fri, 16 Aug 2013 13:01:00 +0700</pubDate>
-				<link>http://sungsit.com/2013-08-16-2.html</link>
-				<guid isPermaLink="true">http://sungsit.com/2013-08-16-2.html</guid>
-			</item>
-		
-			<item>
-				<title>I’m good at ...</title>
-				<description>&lt;p&gt;I’m good at making mistake&lt;br&gt;
-And learn how to&lt;br&gt;
-Live with it.  &lt;/p&gt;
-</description>
-				<pubDate>Fri, 16 Aug 2013 12:54:00 +0700</pubDate>
-				<link>http://sungsit.com/2013-08-16-1.html</link>
-				<guid isPermaLink="true">http://sungsit.com/2013-08-16-1.html</guid>
-			</item>
-		
-			<item>
-				<title>วิธีหยุดฝน</title>
-				<description>&lt;p&gt;ทุกคนสามารถทำให้ฝนหยุดตกได้โดย &lt;strong&gt;การรอ&lt;/strong&gt;&lt;/p&gt;
-</description>
-				<pubDate>Tue, 13 Aug 2013 15:55:00 +0700</pubDate>
-				<link>http://sungsit.com/2013-08-13-1.html</link>
-				<guid isPermaLink="true">http://sungsit.com/2013-08-13-1.html</guid>
-			</item>
-		
-			<item>
-				<title>ศูนย์กลางของจักรวาล</title>
-				<description>&lt;p&gt;มนุษย์โดยทั่วไปรู้มานานแล้วว่าโลกโคจรรอบดวงอาทิตย์ แต่ปัจจุบันยังมีคนเข้าใจว่า &lt;strong&gt;ไทยคือศูนย์กลางของจักรวาล&lt;/strong&gt;&lt;/p&gt;
-</description>
-				<pubDate>Mon, 12 Aug 2013 22:14:00 +0700</pubDate>
-				<link>http://sungsit.com/2013-08-12-1.html</link>
-				<guid isPermaLink="true">http://sungsit.com/2013-08-12-1.html</guid>
-			</item>
-		
-	</channel>
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+    {% for post in site.posts limit:10 %}
+      <item>
+        <title>{{ post.title | xml_escape }}</title>
+        <description>{{ post.content | xml_escape }}</description>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+        {% for tag in post.tags %}
+        <category>{{ tag | xml_escape }}</category>
+        {% endfor %}
+        {% for cat in post.categories %}
+        <category>{{ cat | xml_escape }}</category>
+        {% endfor %}
+      </item>
+    {% endfor %}
+  </channel>
 </rss>

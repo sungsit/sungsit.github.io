@@ -3,18 +3,13 @@
 
 # TEAM
 
-    Sungsit Sawaiwan -- Site Maker --  http://twitter.com/gzix
+    Sungsit Sawaiwan -- Site Maker --  https://twitter.com/gzix
 
 # THANKS
 
     Github -- https://guthub.com
-    Disqus -- http://disqus.com
 
 # TECHNOLOGY COLOPHON
 
     Jekyll static site generator
     Sass 
-    HTML5 ★ Boilerplate 
-    Normalize.css 
-    jQuery, Modernizr 
-
