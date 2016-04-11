@@ -162,7 +162,8 @@
     }
 }
 
-.post-meta {
+.post-meta,
+.post-util {
     color: $grey-color;
     font-size: $small-font-size;
 }
@@ -177,7 +178,6 @@
     font-size: $base-font-size;
     margin-right: 1em;
 }
-
 
 
 /**

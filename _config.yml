@@ -10,7 +10,11 @@ github_username:  sungsit
 lang: th
 timezone: Asia/Bangkok
 permalink: /:year-:month-:day-:title.html
+paginate: 13
+paginate_path: "/page/:num/"
+
 excerpt_separator: <!--more-->
+
 
 # Github
 github:
@@ -21,6 +25,7 @@ github:
 # Github Pages Sitemap
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
 
 highlighter: pygments
 
