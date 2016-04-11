@@ -1,9 +1,9 @@
 # Site settings
 encoding: utf-8
-title: Sungsit Sawaiwan
+title: สังศิต ไสววรรณ
 url: "https://sungsit.com"
 description: >
-  Jai Guru Deva Om ...
+  สังศิตเขียนบ้างในบางเวลา ...
 baseurl: ""
 twitter_username: gzix
 github_username:  sungsit
@@ -21,6 +21,8 @@ github:
 # Github Pages Sitemap
 gems:
   - jekyll-sitemap
+
+highlighter: pygments
 
 # Build settings
 markdown: kramdown

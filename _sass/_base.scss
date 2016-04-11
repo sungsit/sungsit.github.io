@@ -37,8 +37,6 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
-
-
 /**
  * Images
  */
@@ -73,6 +71,7 @@ li {
     > ul,
     > ol {
          margin-bottom: 0;
+         display: block;
     }
 }
 
@@ -81,8 +80,8 @@ li {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
-    font-weight: $base-font-weight;
+h1, h2, h3, h4, h5, h6, strong {
+    font-weight: $bold-font-weight;
 }
 
 
@@ -99,8 +98,8 @@ a {
     }
 
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
+        color: $grey-color;
+        text-decoration: none;
     }
 }
 
@@ -129,7 +128,7 @@ blockquote {
  */
 pre,
 code {
-    font-size: 15px;
+    font-size: $small-font-size;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
     background-color: #eef;
