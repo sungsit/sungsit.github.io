@@ -27,7 +27,7 @@ gems:
   - jekyll-sitemap
   - jekyll-paginate
 
-highlighter: pygments
+highlighter: rouge
 
 # Build settings
 markdown: kramdown
