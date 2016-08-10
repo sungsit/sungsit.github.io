@@ -1,0 +1,9 @@
+<aside class="post-util">
+  {% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}" title="Previous post">&laquo; {{page.previous.title}}</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="next" href="{{page.next.url}}" title="Next post">{{page.next.title}} &raquo;</a>
+  {% endif %}
+</aside>
+

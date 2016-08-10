@@ -99,7 +99,7 @@
  */
 .site-footer {
     //border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    padding: 0 0 $spacing-unit 0;
     font-size: $small-font-size;
 }
 
@@ -166,6 +166,25 @@
 .post-util {
     color: $grey-color;
     font-size: $small-font-size;
+    @extend %clearfix;
+    .prev, .next {
+        display: block;
+        width: 45%;
+    }
+    .prev {
+        float: left;
+    }
+    .next {
+        float: right;
+        text-align: right;
+    }
+}
+
+.post-util {
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    padding: 0.25em 0;
+    p { margin: 0; }
 }
 
 .home .post-meta,
